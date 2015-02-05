@@ -1,0 +1,15 @@
+.formulario{
+padding: 25px;
+}
+
+.row .marketing{
+	width: 700px;
+}
+.lateral{
+	padding: 15px;
+}
+.lateral ul li{
+	padding: 3px;
+	font-size: 17px;
+	font-style: bold;
+}

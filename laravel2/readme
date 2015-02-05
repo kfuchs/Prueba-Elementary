@@ -1,0 +1,5 @@
+remover de jquery ui
+
+.ui-widget-content a {
+	color: #222222;
+}
